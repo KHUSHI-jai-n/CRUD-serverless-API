@@ -3,6 +3,8 @@
 This project demonstrates the implementation of a serverless REST API with full CRUD (Create, Read, Update, Delete) functionality using AWS services including Lambda, API Gateway, and DynamoDB.
 
 Architecture:
+
+
 ![diagram-export-9-11-2024-12_01_08-PM](https://github.com/user-attachments/assets/0cba5eb4-761c-491b-aa9e-424fb8afbdb4)
 
 Features:
