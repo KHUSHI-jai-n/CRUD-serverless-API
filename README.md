@@ -5,7 +5,7 @@ This project demonstrates the implementation of a serverless REST API with full 
 Architecture:
 
 
-![diagram-export-9-11-2024-12_01_08-PM](https://github.com/user-attachments/assets/0cba5eb4-761c-491b-aa9e-424fb8afbdb4)
+![diagram-export-9-11-2024-12_10_01-PM](https://github.com/user-attachments/assets/42081c10-f6f4-434f-800a-d3b324edbd5f)
 
 Features:
 
