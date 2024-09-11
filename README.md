@@ -9,13 +9,13 @@ Architecture:
 
 Features:
 
-Serverless Architecture- Utilizes AWS Lambda for executing backend logic, making the application scalable and cost-efficient.
+1. Serverless Architecture- Utilizes AWS Lambda for executing backend logic, making the application scalable and cost-efficient.
 
-API Gateway- Acts as the entry point for all API requests, routing them to the Lambda function.
+2. API Gateway- Acts as the entry point for all API requests, routing them to the Lambda function.
 
-DynamoDB Integration- DynamoDB is used as the persistent data store, efficiently handling employee records.
+3. DynamoDB Integration- DynamoDB is used as the persistent data store, efficiently handling employee records.
 
-CRUD Operations-
+4. CRUD Operations-
 
 GET /status: Returns the operational status of the service.
 
