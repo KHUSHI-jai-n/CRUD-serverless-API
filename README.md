@@ -18,8 +18,13 @@ DynamoDB Integration- DynamoDB is used as the persistent data store, efficiently
 CRUD Operations-
 
 GET /status: Returns the operational status of the service.
+
 GET /employee?employeeId={id}: Fetches a single employee record by employee ID.
+
 GET /employees: Retrieves all employee records.
+
 POST /employee: Adds a new employee record.
+
 PATCH /employee: Updates an existing employee record.
+
 DELETE /employee: Deletes an employee record.
